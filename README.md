@@ -1,67 +1,115 @@
-# Hi there 👋, I'm Alireza Rashnoo
+<div align="center">
 
-## Full-Stack Developer
+# Hi 👋, I'm Alireza Rashnoo
 
-I'm a Full-Stack Developer passionate about building modern, scalable, and high-performance web applications. I enjoy creating clean, maintainable solutions and continuously improving my skills by working with modern technologies.
+### 🚀 Full-Stack Developer
+
+Building scalable, modern and high-performance web applications.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://alireza-rashnoo-portfolio.vercel.app)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Developer** who enjoys turning ideas into modern, scalable, and user-friendly applications.
+
+- 🔭 Currently building Full-Stack applications
+- 🌱 Learning **System Design, Microservices & Cloud**
+- 💬 Ask me about **React, Next.js, NestJS and Node.js**
+- ⚡ I enjoy writing clean, maintainable code.
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
 
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* HTML5
-* CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* NestJS
-* Express.js
-* REST API
-* JWT Authentication
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
 
 ### Database
 
-* MongoDB
-* PostgreSQL
-* Prisma
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
 
-### Tools & DevOps
+### Tools
 
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 📊 GitHub Stats
 
-* System Design
-* Microservices
-* Cloud Technologies
-* CI/CD
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlirezaRashnoo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🌐 Portfolio
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRashnoo&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Portfolio:** https://alireza-rashnoo-portfolio.vercel.app
+</p>
 
 ---
 
-## 🎯 Goal
+# 🔥 GitHub Streak
 
-Building fast, secure, and scalable applications while continuously learning new technologies and contributing to impactful projects.
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AlirezaRashnoo&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+# 🌐 Portfolio
 
+### 🔗 https://alireza-rashnoo-portfolio.vercel.app
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master NestJS
+- ✅ Learn Microservices
+- ✅ Learn Kubernetes
+- ✅ Improve System Design
+- ✅ Contribute to Open Source
+- ✅ Build SaaS Projects
+
+---
+
+## 🤝 Connect with me
+
+<p>
+
+<a href="https://github.com/AlirezaRashnoo">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://alireza-rashnoo-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Code is not just about making software work, it's about solving real problems."*
+
+</div>
