@@ -6,24 +6,22 @@
 
 Building scalable, modern and high-performance web applications.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge)](https://alireza-rashnoo-portfolio.vercel.app)
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** who enjoys turning ideas into modern, scalable, and user-friendly applications.
+I'm a passionate Full-Stack Developer who enjoys building modern, scalable, and user-friendly applications.
 
-- 🔭 Currently building Full-Stack applications
-- 🌱 Learning **System Design, Microservices & Cloud**
-- 💬 Ask me about **React, Next.js, NestJS and Node.js**
-- ⚡ I enjoy writing clean, maintainable code.
+- 💻 Full-Stack JavaScript Developer
+- 🌱 Currently learning **System Design, Microservices & Cloud**
+- ⚡ Passionate about clean architecture and scalable systems
+- 🎯 My goal is to build products that make a real impact.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Frontend
 
@@ -73,43 +71,20 @@ I'm a passionate **Full-Stack Developer** who enjoys turning ideas into modern, 
 
 ---
 
-# 🌐 Portfolio
+## 🎯  Current Focus
 
-### 🔗 https://alireza-rashnoo-portfolio.vercel.app
-
----
-
-# 🎯 2026 Goals
-
+- ✅ Build production-ready Full-Stack applications
 - ✅ Master NestJS
-- ✅ Learn Microservices
 - ✅ Learn Kubernetes
 - ✅ Improve System Design
 - ✅ Contribute to Open Source
-- ✅ Build SaaS Projects
-
----
-
-## 🤝 Connect with me
-
-<p>
-
-<a href="https://github.com/AlirezaRashnoo">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://alireza-rashnoo-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### Thanks for visiting my profile! 👨‍💻
 
-*"Code is not just about making software work, it's about solving real problems."*
+*"Keep building. Keep learning."*
 
 </div>
