@@ -1,13 +1,3 @@
-<div align="center">
-
-# 👨‍💻 Alireza Rashnoo
-
-### Full-Stack Developer
-
-</div>
-
----
-
 ## 💫 About Me:
 
 - 🚀 I'm currently building modern and scalable web applications
