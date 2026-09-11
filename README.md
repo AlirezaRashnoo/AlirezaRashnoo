@@ -1,90 +1,78 @@
 <div align="center">
 
-# Hi 👋, I'm Alireza Rashnoo
+# 👨‍💻 Alireza Rashnoo
 
-### 🚀 Full-Stack Developer
-
-Building scalable, modern and high-performance web applications.
+### Full-Stack Developer
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me:
 
-I'm a passionate Full-Stack Developer who enjoys building modern, scalable, and user-friendly applications.
-
-- 💻 Full-Stack JavaScript Developer
-- 🌱 Currently learning **System Design, Microservices & Cloud**
-- ⚡ Passionate about clean architecture and scalable systems
-- 🎯 My goal is to build products that make a real impact.
+- 🚀 I'm currently building modern and scalable web applications
+- 🌱 I'm currently learning System Design, Microservices & Cloud
+- 💻 Ask me about JavaScript, TypeScript, React, Next.js & NestJS
+- ⚡ Fun fact: I love building things and learning new technologies
 
 ---
 
-# 🛠️ Tech Stack
+## 🌐 Socials:
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
+<a href="https://www.linkedin.com/in/alireza-rashnoo/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://alireza-rashnoo-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/WEBSITE-FF4081?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="mailto:alirezarshnoo85@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0077C8?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/AlirezaRashnoo">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
-# 📊 GitHub Stats
+## 💻 Tech Stack:
 
-<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="#"><img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlirezaRashnoo&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="#"><img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"></a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRashnoo&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="#"><img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
 
-</p>
+<a href="#"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<a href="#"><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌱 Currently Learning:
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlirezaRashnoo&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🎯  Current Focus
-
-- ✅ Build production-ready Full-Stack applications
-- ✅ Master NestJS
-- ✅ Learn Kubernetes
-- ✅ Improve System Design
-- ✅ Contribute to Open Source
+- 🏗️ System Design
+- 🧩 Microservices Architecture
+- ☁️ Cloud Infrastructure
+- ☸️ Kubernetes
+- ⚙️ Distributed Systems
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 👨‍💻
-
-*"Keep building. Keep learning."*
+### ⚡ Build. Learn. Ship.
 
 </div>
